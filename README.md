@@ -20,9 +20,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./src/IMAGESSS1.png)
-![](./src/IMAGESSS2.png)
-![](./src/IMAGESSS3.png)
+![](src/IMAGESSS1.png)
+![](src/IMAGESSS2.png)
+![](src/IMAGESSS3.png)
 
 ### Links
 
