@@ -1,6 +1,6 @@
 # A SIMPLE TODO LIST MADE WITH REACT
 
-This is a Simple TODO app [MADE WITH REACT.JS](#).
+This is a Simple TODO app [MADE WITH REACT.JS](https://reactjs.org/).
 
 ## Table of contents
 
@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/Iammayank18/Responsive-card)
-- Live Site URL: [live site URL](https://responsive-card-jet.vercel.app/)
+- Solution URL: [solution URL](https://github.com/Iammayank18/ToDo)
+- Live Site URL: [live site URL](https://todo-five-xi.vercel.app)
 
 ### Built with
 
