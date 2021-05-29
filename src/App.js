@@ -63,6 +63,7 @@ setTasks(tasks.map((task)=>task.id===id?{...task,reminder:!tasks.reminder}:task)
   {showAddTask && <AddTask onAdd={addTasks}/>}
   {tasks.length  > 0 ? <Tasks tasks={tasks} 
   onDelete={DeleteTask} onToggle={toggleReminder}/> :'No Taks To Show'}
+<footer>CREATED By <span className="Mayank"><a href="https://github.com/Iammayank18" target="_blank" rel="noreferrer">MAYANK</a></span></footer>
 </div>
 </>
   );
