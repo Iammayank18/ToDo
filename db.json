@@ -1,0 +1,24 @@
+{
+  "tasks": [
+  { 
+        "id":1,
+        "text":"Call Raman",
+        "day":"may 29 2020",
+        "reminder":true
+    },
+
+      { 
+           "id":2,
+        "text":"Call Ashok",
+        "day":"may 29 2020",
+        "reminder":true
+    },
+
+      { 
+        "id":3,
+        "text":"Call Mayank",
+        "day":"may 29 2020",
+        "reminder":true
+    }
+  ]
+}
